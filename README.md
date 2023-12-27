@@ -3,7 +3,7 @@
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
 <!--h3 align="center">A passionate web developer from India.</h3-->
 <!--img align="right" alt="Coding" width="400" src="./giphy.gif"/-->
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+<iframe align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="400" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
 
 - 🔭 I’m currently working on **Flutter project.**
 
