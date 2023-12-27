@@ -1,11 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1>
 <h3 align="center">A passionate web developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
-- 🔭 I’m currently working on **a Flutter project.**
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)"/>
 
-- 🌱 I’m currently learning **Flutter, Dart, Kotlin.**
+- 🔭 I’m currently working on **Flutter project.**
+
+- 🌱 I’m currently learning **Dart, Kotlin.**
 
 - 💬 Ask me about **Django, React.**
 
