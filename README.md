@@ -1,5 +1,5 @@
 
-<img align="center" alt="banner" src="./github-header-image.png"/>
+<img align="center" alt="banner" width="100%" src="./github-header-image.png"/>
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
 <!--h3 align="center">A passionate web developer from India.</h3-->
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
