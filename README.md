@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)
+![MasterHead](./github-header-image.png)
 
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
 <!--h3 align="center">A passionate web developer from India.</h3-->
