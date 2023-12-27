@@ -1,9 +1,8 @@
-
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1>
-<h3 align="center">A passionate web developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)"/>
+<!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
+<!--h3 align="center">A passionate web developer from India.</h3-->
+<img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
 - 🔭 I’m currently working on **Flutter project.**
 
