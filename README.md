@@ -18,7 +18,7 @@
 <p dir="auto">📫 How to reach me <strong><a href="mailto:raj2013atel@gmail.com">raj2013atel@gmail.com</a></strong></p>
 </li>
 <li>
-<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing" rel="nofollow">drive link</a> <a target="_blank" rel="noopener noreferrer" href="/shubham3246/shubham3246/blob/main/external-link.svg"><img width="24" height="24" src="/shubham3246/shubham3246/raw/main/external-link.svg" alt="external-link" style="max-width: 100%;"></a></p>
+<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing" rel="nofollow">drive link</a> <a target="_blank" rel="noopener noreferrer" href="./external-link.svg"><img width="24" height="24" src="./external-link.svg" alt="external-link" style="max-width: 100%; position:relative; top:7px;"></a></p>
 </li>
 </ul>
 
