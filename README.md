@@ -8,7 +8,9 @@
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
 <!--h3 align="center">A passionate web developer from India.</h3-->
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
+
 <i class="fa fa-coffee"></i>
+
 - 🔭 I’m currently working on **Flutter project.**
 
 - 🌱 I’m currently learning **Dart, Kotlin.**
