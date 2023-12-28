@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
 <i class="fa fa-coffee"></i>
-
+<p>:fa-coffee</p>
 - 🔭 I’m currently working on **Flutter project.**
 
 - 🌱 I’m currently learning **Dart, Kotlin.**
