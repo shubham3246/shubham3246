@@ -1,8 +1,4 @@
->>> from markdown import Markdown
->>> from fontawesome_markdown import FontAwesomeExtension
-
->>> markdown = Markdown(extensions=[FontAwesomeExtension()]
->>> markdown.convert('i ♥ :fa-coffee:')
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 <img align="center" alt="banner" width="100%" src="./github-header-image.png"/>
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
@@ -10,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
 <i class="fa fa-coffee"></i>
-<p>:fa-coffee</p>
+
 - 🔭 I’m currently working on **Flutter project.**
 
 - 🌱 I’m currently learning **Dart, Kotlin.**
