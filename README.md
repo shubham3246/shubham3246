@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **raj2013atel@gmail.com**
 
-- <i class="fa fa-coffee">jb</i>
+- <i class="fa fa-coffee">jb</i> <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4=" width="16" height="16" alt="External Link">
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <i class="fas fa-external-link"></i>
 
