@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raj2013atel@gmail.com**
 
-- <i class="fa fa-coffee">jb</i>
+- <img src="https://www.svgrepo.com/show/510970/external-link.svg" alt="external-link" width="20"/>
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <i class="fas fa-external-link"></i>
 
