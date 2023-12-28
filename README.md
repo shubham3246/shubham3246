@@ -5,7 +5,7 @@
 <!--h3 align="center">A passionate web developer from India.</h3-->
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
-<i class="fa fa-coffee"></i>
+
 
 - 🔭 I’m currently working on **Flutter project.**
 
@@ -14,8 +14,11 @@
 - 💬 Ask me about **Django, React.**
 
 - 📫 How to reach me **raj2013atel@gmail.com**
+- <i class="fa fa-coffee"></i>
+i <3 :fa-coffee: and I <3 :fa-beer: and I'll buy wayland ten of both. 
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <i class="fas fa-external-link"></i>
+
 
 <br/>
 
