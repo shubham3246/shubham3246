@@ -4,7 +4,25 @@
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
 
+<ul dir="auto">
+<li>
+<p dir="auto">🔭 I’m currently working on <strong>Flutter project.</strong></p>
+</li>
+<li>
+<p dir="auto">🌱 I’m currently learning <strong>Dart, Kotlin.</strong></p>
+</li>
+<li>
+<p dir="auto">💬 Ask me about <strong>Django, React.</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:raj2013atel@gmail.com">raj2013atel@gmail.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing" rel="nofollow">drive link</a> <a target="_blank" rel="noopener noreferrer" href="/shubham3246/shubham3246/blob/main/external-link.svg"><img width="24" height="24" src="/shubham3246/shubham3246/raw/main/external-link.svg" alt="external-link" style="max-width: 100%;"></a></p>
+</li>
+</ul>
 
+<!--
 - 🔭 I’m currently working on **Flutter project.**
 
 - 🌱 I’m currently learning **Dart, Kotlin.**
@@ -14,7 +32,7 @@
 - 📫 How to reach me **raj2013atel@gmail.com**
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <img width="24" height="24" src="./external-link.svg" alt="external-link" style="position: relative; top: 7px;"/>
-
+-->
 
 <br/>
 
