@@ -12,8 +12,10 @@
 - 📫 How to reach me **raj2013atel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing)
-
+<br/>
+<br/>
 <h3 align="left">About me:</h3>
+
 - ♟️ Chess Lover: Looking for a game? Challenge me to a match anytime!
 
 - 🧩 Puzzle Enthusiast: I'm not just about code! Catch me solving a Rubik's Cube in under 4 minutes—always striving to beat my best time.
