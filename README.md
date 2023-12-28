@@ -26,7 +26,9 @@
 - 🚀 Tech Enthusiast: When I'm not unraveling puzzles or making strategic moves on the chessboard, you'll find me exploring the latest in tech and writing clean, efficient code.
 
 Let's connect and share our passion for coding, puzzles, or a great game of chess! 🚀✨
+
 <br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-patel" height="30" width="40" /></a>
