@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<head>
+  <!-- Add this line to your HTML's head or in the Markdown file if supported -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 
 <img align="center" alt="banner" width="100%" src="./github-header-image.png"/>
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
