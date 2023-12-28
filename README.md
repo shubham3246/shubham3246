@@ -4,25 +4,7 @@
 <img align="right" alt="Coding" width="400" src="./giphy.gif"/>
 
 
-<ul dir="auto">
-<li>
-<p dir="auto">🔭 I’m currently working on <strong>Flutter project.</strong></p>
-</li>
-<li>
-<p dir="auto">🌱 I’m currently learning <strong>Dart, Kotlin.</strong></p>
-</li>
-<li>
-<p dir="auto">💬 Ask me about <strong>Django, React.</strong></p>
-</li>
-<li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:raj2013atel@gmail.com">raj2013atel@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing" rel="nofollow">drive link</a> <a target="_blank" rel="noopener noreferrer" href="./external-link.svg"><img width="24" height="24" src="./external-link.svg" alt="external-link" style="max-width: 100%; position:relative; top:7px;"></a></p>
-</li>
-</ul>
 
-<!--
 - 🔭 I’m currently working on **Flutter project.**
 
 - 🌱 I’m currently learning **Dart, Kotlin.**
@@ -31,8 +13,8 @@
 
 - 📫 How to reach me **raj2013atel@gmail.com**
 
-- 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <img width="24" height="24" src="./external-link.svg" alt="external-link" style="position: relative; top: 7px;"/>
--->
+- 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <img width="24" height="24" src="./external-link.svg" alt="external-link"/>
+
 
 <br/>
 
@@ -65,4 +47,3 @@ Let's connect and share our passion for coding, puzzles, or a great game of ches
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham3246&show_icons=true&locale=en&layout=compact" width="400" alt="shubham3246">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham3246" alt="shubham3246">
 </p>
-
