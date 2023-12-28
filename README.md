@@ -17,8 +17,8 @@
 - 💬 Ask me about **Django, React.**
 
 - 📫 How to reach me **raj2013atel@gmail.com**
-- <i class="fa fa-coffee"></i>
-i <3 :fa-coffee: and I <3 :fa-beer: and I'll buy wayland ten of both. 
+
+- <i class="fa fa-coffee">jb</i>
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <i class="fas fa-external-link"></i>
 
