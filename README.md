@@ -1,8 +1,3 @@
-<head>
-  <!-- Add this line to your HTML's head or in the Markdown file if supported -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-
 <img align="center" alt="banner" width="100%" src="./github-header-image.png"/>
 <!--h1 align="center">Hi 👋, I'm Shubham Kumar Patel</h1-->
 <!--h3 align="center">A passionate web developer from India.</h3-->
@@ -18,7 +13,7 @@
 
 - 📫 How to reach me **raj2013atel@gmail.com**
 
-- <i class="fa fa-coffee">jb</i> <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4=" width="16" height="16" alt="External Link">
+- <i class="fa fa-coffee">jb</i>
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1ttL3BU0-Ue4RYOOLHnKJnJ2EHzgM4Xsa/view?usp=sharing) <i class="fas fa-external-link"></i>
 
